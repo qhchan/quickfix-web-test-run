@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d2b6d0e.css",
-    "main.js": "/static/js/main.d9340c78.js",
+    "main.css": "/static/css/main.8036982a.css",
+    "main.js": "/static/js/main.d3fd6dc5.js",
     "static/media/bg3.png": "/static/media/bg3.9b0c7ce7ba55d4de2100.png",
     "static/media/bg1.png": "/static/media/bg1.6a486b03c5542cb246e0.png",
     "static/media/bg6.png": "/static/media/bg6.cc940240b189ecb38392.png",
@@ -21,6 +21,7 @@
     "static/media/11.jpg": "/static/media/11.7fc9376099298c4097ea.jpg",
     "static/media/bg4.png": "/static/media/bg4.97f4a2507d8b206fa883.png",
     "static/media/12.jpg": "/static/media/12.35de902ec657571d54fa.jpg",
+    "static/media/6.jpg": "/static/media/6.96719f7006c833064f8f.jpg",
     "static/media/bg2.png": "/static/media/bg2.ba034c34aba8d6659cb2.png",
     "static/media/icomoon.svg?n2y3ft": "/static/media/icomoon.a727c8de8ef6995b7bb0.svg",
     "static/media/brand3.png": "/static/media/brand3.a01a3184f42a92715f60.png",
@@ -28,11 +29,11 @@
     "static/media/icomoon.woff?n2y3ft": "/static/media/icomoon.425a727622fd7c1c0812.woff",
     "static/media/icomoon.ttf?n2y3ft": "/static/media/icomoon.e9d06ee015e62b1b5f73.ttf",
     "index.html": "/index.html",
-    "main.4d2b6d0e.css.map": "/static/css/main.4d2b6d0e.css.map",
-    "main.d9340c78.js.map": "/static/js/main.d9340c78.js.map"
+    "main.8036982a.css.map": "/static/css/main.8036982a.css.map",
+    "main.d3fd6dc5.js.map": "/static/js/main.d3fd6dc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d2b6d0e.css",
-    "static/js/main.d9340c78.js"
+    "static/css/main.8036982a.css",
+    "static/js/main.d3fd6dc5.js"
   ]
 }
