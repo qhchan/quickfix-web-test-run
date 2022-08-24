@@ -3,91 +3,91 @@
 
     <url>
         <loc>https://quickfix.com/</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>1.00</priority>
     </url>
 
     <url>
         <loc>https://quickfix.com/all-products</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://quickfix.com/products</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
 
 
     <url>
         <loc>https://quickfix.com/products/power-tools</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://quickfix.com/products/waterjet</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://quickfix.com/products/vacuum</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://quickfix.com/products/power-track</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://quickfix.com/products/hose-reel</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
 
 
     <url>
         <loc>https://quickfix.com/brands</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://quickfix.com/brands/bossman</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://quickfix.com/brands/isano</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://quickfix.com/brands/zenso</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://quickfix.com/brands/proguard</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
 
 
     <url>
         <loc>https://quickfix.com/on-sale</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
 
     <url>
         <loc>https://quickfix.com/contact-us</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
 
     <url>
         <loc>https://quickfix.com/about-us</loc>
-        <lastmod>2022-08-22</lastmod>
+        <lastmod>2022-08-24</lastmod>
         <priority>0.80</priority>
     </url>
 </urlset>
