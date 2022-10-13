@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.51c5d304.css",
-    "main.js": "/static/js/main.b6eb1e4b.js",
+    "main.css": "/static/css/main.f11a5720.css",
+    "main.js": "/static/js/main.4df8b315.js",
     "static/media/hose-reel.jpg": "/static/media/hose-reel.751cad2a0d6cf8a22405.jpg",
     "static/media/banner-2.jpg": "/static/media/banner-2.e4f72ebb53ffa551e4d9.jpg",
     "static/media/banner-4.jpg": "/static/media/banner-4.a2182d382af72f97fbe1.jpg",
@@ -29,9 +29,13 @@
     "static/media/power-tools.jpg": "/static/media/power-tools.0f4d02f6a211aadd1635.jpg",
     "static/media/vacuum.jpg": "/static/media/vacuum.d083c150ec3903790ac4.jpg",
     "static/media/waterjet.jpg": "/static/media/waterjet.f5d174d220a4857677e6.jpg",
+    "static/media/Stanley.jpg": "/static/media/Stanley.072acdb90b51e3753fe7.jpg",
+    "static/media/isano.jpg": "/static/media/isano.aaa28a36cb0dd4ef7dcb.jpg",
+    "static/media/bossman.jpg": "/static/media/bossman.65a5ee2d46c7c8727e69.jpg",
     "static/media/promo-04.jpg": "/static/media/promo-04.72ba4cc4974f31b2f47a.jpg",
     "static/media/power-track.jpg": "/static/media/power-track.1d7a4dcd02b89413fa12.jpg",
     "static/media/all-product.jpg": "/static/media/all-product.e8cbeea33ff49959615d.jpg",
+    "static/media/hyprex.jpg": "/static/media/hyprex.2aa1477a1a056e61f53c.jpg",
     "static/media/16.jpg": "/static/media/16.583a9401f40e1cd84fd5.jpg",
     "static/media/2.jpg": "/static/media/2.743f2cd27b72ca0229a5.jpg",
     "static/media/1.jpg": "/static/media/1.429e034641c9aff50bfa.jpg",
@@ -47,7 +51,10 @@
     "static/media/11.jpg": "/static/media/11.7fc9376099298c4097ea.jpg",
     "static/media/bg4.png": "/static/media/bg4.97f4a2507d8b206fa883.png",
     "static/media/12.jpg": "/static/media/12.35de902ec657571d54fa.jpg",
+    "static/media/zenso.jpg": "/static/media/zenso.6ac4a719207af336fb98.jpg",
+    "static/media/WD40.jpg": "/static/media/WD40.46a7f1f8986df33b4ffd.jpg",
     "static/media/6.jpg": "/static/media/6.96719f7006c833064f8f.jpg",
+    "static/media/zippo.jpg": "/static/media/zippo.f4a68c4fb4bf9b520f04.jpg",
     "static/media/promo-02.jpg": "/static/media/promo-02.cef9e962fdec4f2807dc.jpg",
     "static/media/bg2.png": "/static/media/bg2.ba034c34aba8d6659cb2.png",
     "static/media/icomoon.svg?n2y3ft": "/static/media/icomoon.76bbf24ae6ad48ea117a.svg",
@@ -58,11 +65,11 @@
     "static/media/icomoon.woff?n2y3ft": "/static/media/icomoon.425a727622fd7c1c0812.woff",
     "static/media/icomoon.ttf?n2y3ft": "/static/media/icomoon.e9d06ee015e62b1b5f73.ttf",
     "index.html": "/index.html",
-    "main.51c5d304.css.map": "/static/css/main.51c5d304.css.map",
-    "main.b6eb1e4b.js.map": "/static/js/main.b6eb1e4b.js.map"
+    "main.f11a5720.css.map": "/static/css/main.f11a5720.css.map",
+    "main.4df8b315.js.map": "/static/js/main.4df8b315.js.map"
   },
   "entrypoints": [
-    "static/css/main.51c5d304.css",
-    "static/js/main.b6eb1e4b.js"
+    "static/css/main.f11a5720.css",
+    "static/js/main.4df8b315.js"
   ]
 }
