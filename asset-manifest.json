@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f11a5720.css",
-    "main.js": "/static/js/main.4df8b315.js",
+    "main.css": "/static/css/main.2803194e.css",
+    "main.js": "/static/js/main.40ff1892.js",
     "static/media/hose-reel.jpg": "/static/media/hose-reel.751cad2a0d6cf8a22405.jpg",
     "static/media/banner-2.jpg": "/static/media/banner-2.e4f72ebb53ffa551e4d9.jpg",
     "static/media/banner-4.jpg": "/static/media/banner-4.a2182d382af72f97fbe1.jpg",
@@ -30,6 +30,7 @@
     "static/media/vacuum.jpg": "/static/media/vacuum.d083c150ec3903790ac4.jpg",
     "static/media/waterjet.jpg": "/static/media/waterjet.f5d174d220a4857677e6.jpg",
     "static/media/Stanley.jpg": "/static/media/Stanley.072acdb90b51e3753fe7.jpg",
+    "static/media/Proguard.jpg": "/static/media/Proguard.2d40de0835677c777425.jpg",
     "static/media/isano.jpg": "/static/media/isano.aaa28a36cb0dd4ef7dcb.jpg",
     "static/media/bossman.jpg": "/static/media/bossman.65a5ee2d46c7c8727e69.jpg",
     "static/media/promo-04.jpg": "/static/media/promo-04.72ba4cc4974f31b2f47a.jpg",
@@ -65,11 +66,11 @@
     "static/media/icomoon.woff?n2y3ft": "/static/media/icomoon.425a727622fd7c1c0812.woff",
     "static/media/icomoon.ttf?n2y3ft": "/static/media/icomoon.e9d06ee015e62b1b5f73.ttf",
     "index.html": "/index.html",
-    "main.f11a5720.css.map": "/static/css/main.f11a5720.css.map",
-    "main.4df8b315.js.map": "/static/js/main.4df8b315.js.map"
+    "main.2803194e.css.map": "/static/css/main.2803194e.css.map",
+    "main.40ff1892.js.map": "/static/js/main.40ff1892.js.map"
   },
   "entrypoints": [
-    "static/css/main.f11a5720.css",
-    "static/js/main.4df8b315.js"
+    "static/css/main.2803194e.css",
+    "static/js/main.40ff1892.js"
   ]
 }
