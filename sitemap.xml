@@ -102,6 +102,11 @@
         <priority>0.80</priority>
     </url>
 
+    <url>
+        <loc>https://quickfixdiy.com.my/search-result</loc>
+        <lastmod>2022-10-20</lastmod>
+        <priority>0.80</priority>
+    </url>
 
     <url>
         <loc>https://quickfixdiy.com.my/on-sale</loc>
