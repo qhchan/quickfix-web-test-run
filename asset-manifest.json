@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b439786.css",
-    "main.js": "/static/js/main.af8dfa2c.js",
+    "main.css": "/static/css/main.b3e642f6.css",
+    "main.js": "/static/js/main.8271f8e1.js",
     "static/media/hose-reel.jpg": "/static/media/hose-reel.751cad2a0d6cf8a22405.jpg",
     "static/media/banner-2.jpg": "/static/media/banner-2.e4f72ebb53ffa551e4d9.jpg",
     "static/media/banner-4.jpg": "/static/media/banner-4.a2182d382af72f97fbe1.jpg",
@@ -65,11 +65,11 @@
     "static/media/icomoon.woff?n2y3ft": "/static/media/icomoon.425a727622fd7c1c0812.woff",
     "static/media/icomoon.ttf?n2y3ft": "/static/media/icomoon.e9d06ee015e62b1b5f73.ttf",
     "index.html": "/index.html",
-    "main.1b439786.css.map": "/static/css/main.1b439786.css.map",
-    "main.af8dfa2c.js.map": "/static/js/main.af8dfa2c.js.map"
+    "main.b3e642f6.css.map": "/static/css/main.b3e642f6.css.map",
+    "main.8271f8e1.js.map": "/static/js/main.8271f8e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b439786.css",
-    "static/js/main.af8dfa2c.js"
+    "static/css/main.b3e642f6.css",
+    "static/js/main.8271f8e1.js"
   ]
 }
