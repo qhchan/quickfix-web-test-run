@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.b3e642f6.css",
-    "main.js": "/static/js/main.8271f8e1.js",
+    "main.js": "/static/js/main.28d4e3e2.js",
+    "static/media/promo-07.jpg": "/static/media/promo-07.6bf795e86fb9e1a7e942.jpg",
     "static/media/hose-reel.jpg": "/static/media/hose-reel.751cad2a0d6cf8a22405.jpg",
     "static/media/banner-2.jpg": "/static/media/banner-2.e4f72ebb53ffa551e4d9.jpg",
+    "static/media/promo-06.jpg": "/static/media/promo-06.fde3ae326f88bb708973.jpg",
     "static/media/banner-4.jpg": "/static/media/banner-4.a2182d382af72f97fbe1.jpg",
     "static/media/bg3.png": "/static/media/bg3.9b0c7ce7ba55d4de2100.png",
     "static/media/promo-03.jpg": "/static/media/promo-03.5f6a25064230f790847d.jpg",
@@ -12,6 +14,7 @@
     "static/media/banner-5.jpg": "/static/media/banner-5.a36492f106f42c56c2e4.jpg",
     "static/media/banner-04.jpg": "/static/media/banner-04.9c6bc7fd48db1de32741.jpg",
     "static/media/banner-02.jpg": "/static/media/banner-02.3a919a0bf2e3137da87f.jpg",
+    "static/media/promo-05.jpg": "/static/media/promo-05.ee9709d15ffb765e7aaa.jpg",
     "static/media/banner-6.jpg": "/static/media/banner-6.42f98ef78ab821835e04.jpg",
     "static/media/bg1.png": "/static/media/bg1.6a486b03c5542cb246e0.png",
     "static/media/safety-wear.jpg": "/static/media/safety-wear.f961b306b9490fe99919.jpg",
@@ -66,10 +69,10 @@
     "static/media/icomoon.ttf?n2y3ft": "/static/media/icomoon.e9d06ee015e62b1b5f73.ttf",
     "index.html": "/index.html",
     "main.b3e642f6.css.map": "/static/css/main.b3e642f6.css.map",
-    "main.8271f8e1.js.map": "/static/js/main.8271f8e1.js.map"
+    "main.28d4e3e2.js.map": "/static/js/main.28d4e3e2.js.map"
   },
   "entrypoints": [
     "static/css/main.b3e642f6.css",
-    "static/js/main.8271f8e1.js"
+    "static/js/main.28d4e3e2.js"
   ]
 }
